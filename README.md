@@ -1,6 +1,3 @@
-
-
-```markdown
 # 🚀 AI-Powered Learning Platform | Next.js + Tailwind + Drizzle
 
 <div align="center">
