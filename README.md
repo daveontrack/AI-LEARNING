@@ -1,5 +1,4 @@
-# 🚀 AI-Powered Learning Platform | Next.js + Tailwind + Drizzle
-
+# 🚀 AI-Powered Learning Platform 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/React-18-%2361DAFB?logo=react" alt="React">
@@ -145,9 +144,9 @@ MIT © [Dave On Track](https://github.com/daveontrack)
 
 <div align="center">
   <sub>Built with ❤️ and</sub>  
-  <img src="https://img.shields.io/badge/-TypeScript-blue" height="20">
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC" height="20">
-  <img src="https://img.shields.io/badge/-Next.js-black" height="20">
+  <img src="https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?logo=typescript&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-%2338B2AC?logo=tailwind-css&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/-Next.js-%23000000?logo=next.js&logoColor=white" height="20">
 </div>
-
 
