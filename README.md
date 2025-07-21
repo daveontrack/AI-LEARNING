@@ -1,37 +1,114 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+```md
+# 🧠 AI Online Learning Platform
+
+A modern full-stack AI-powered online learning platform built using:
+
+- **Next.js** – App Router & SSR
+- **React** – Reusable Components
+- **Clerk** – Authentication & User Management
+- **Drizzle ORM + Neon** – PostgreSQL database (serverless)
+- **Tailwind CSS** – Beautiful & responsive UI
+- **ShadCN UI** – Component library integration
+
+## 🚀 Features
+
+- 🧑‍🎓 Auth & role-based access (Clerk)
+- 🧠 AI-generated courses and content
+- 📚 Course structure with chapters & topics
+- 🧭 Learning timeline with progress tracking
+- 🎥 Video embedding and previews
+- 💾 Serverless PostgreSQL via Neon
+- 💡 Fully type-safe with TypeScript + Drizzle ORM
+
+## 🏗️ Project Structure
+
+```
+
+.
+├── app/                  # Route handlers, pages, API
+├── components/           # Reusable UI components
+├── config/               # Drizzle / Tailwind / Next configs
+├── context/              # React Context Providers
+├── lib/                  # Utility functions
+├── public/               # Static files
+├── .env                  # Environment variables
+├── drizzle.config.js     # Drizzle ORM config
+├── middleware.js         # Clerk middleware
+├── next.config.mjs       # Next.js config
+├── package.json          # Project metadata
+└── README.md             # This file
+
+````
+
+## ⚙️ Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/daveontrack/ai-learning-platform.git
+cd ai-learning-platform
+````
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Set up environment variables
+
+Create a `.env` file in the root and add:
+
+```env
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+CLERK_SECRET_KEY=your_clerk_secret_key
+
+DATABASE_URL=your_neon_postgres_url
+```
+
+### 4. Push Drizzle schema
+
+```bash
+npx drizzle-kit push
+```
+
+### 5. Run the dev server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
- "dev": "next dev --turbopack",
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Visit `http://localhost:3000`
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🧱 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+| Tech        | Description                         |
+| ----------- | ----------------------------------- |
+| Next.js     | Fullstack React Framework           |
+| Clerk       | Authentication & session management |
+| Drizzle ORM | Type-safe DB layer                  |
+| Neon        | Serverless Postgres                 |
+| TailwindCSS | Utility-first CSS framework         |
+| ShadCN      | Component library based on Radix UI |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 🛠️ Future Improvements
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* AI quiz generation
+* User dashboards
+* Course enrollment & certificate system
+* In-app notifications
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-"# ai-learning-platform" 
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ by [@daveontrack](https://github.com/daveontrack)
+
+```
