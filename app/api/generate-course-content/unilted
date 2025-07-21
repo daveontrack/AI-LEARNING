@@ -1,0 +1,46 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "xBF9OUHEqQS250yPcBR-9kInYaA",
+  "nextPageToken": "CAEQAA",
+  "regionCode": "ET",
+  "pageInfo": {
+    "totalResults": 28,
+    "resultsPerPage": 1
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "smSpijtZi_3_wx0GyhDD0CKxTFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rjfXmz-PLk8"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-25T03:21:32Z",
+        "channelId": "UCVlGBi6euh2OxJLZcZTFPHA",
+        "title": "Difference between metals and nonmetals",
+        "description": "Difference between metal and nonmetals @StudyYard-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rjfXmz-PLk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rjfXmz-PLk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rjfXmz-PLk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Study Yard",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-25T03:21:32Z"
+      }
+    }
+  ]
+}
