@@ -10,22 +10,18 @@
 
 <br />
 
-✨ **A cutting-edge learning platform** with AI-generated courses, progress tracking, and beautiful UI. Built for the modern web.
-
-![Platform Preview](https://via.placeholder.com/1920x1080/3b82f6/ffffff?text=AI+Learning+Platform+Showcase) *(Replace with actual screenshot)*
-
 ## 🌟 Key Features
 
 | Category        | Highlights                                                                 |
 |-----------------|----------------------------------------------------------------------------|
-| **AI Core**     | 🧠 Dynamic course generation • 📝 Smart content suggestions                |
+| **AI Core**     | 🧠 Dynamic course generation • 📝 Smart content suggestions               |
 | **Learning**    | 📊 Progress tracking • 🎓 Certifications • 🎥 Interactive video lessons   |
 | **Tech Stack**  | ⚡ Next.js 14 • 🔐 Clerk Auth • 🐘 Neon Postgres • 🎨 ShadCN UI           |
 | **Dev Experience** | 🛠️ Type-safe everything • 📦 Monorepo-ready • 🔄 CI/CD Optimized       |
 
 ## 🏗️ Project Architecture
 
-```bash
+
 ├── 📁 app/            # App Router routes & layouts
 │   ├── (dashboard)    # Protected routes
 │   ├── api/           # Edge-ready API endpoints
@@ -37,7 +33,6 @@
 │   └── db/            # Drizzle database client
 ├── 📁 styles/         # Tailwind configurations
 └── 📁 types/          # Global TypeScript types
-```
 
 ## 🛠️ Quick Start
 
