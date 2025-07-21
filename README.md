@@ -46,7 +46,33 @@ cd ai-learning-platform && npm install
 ### 2. Configure Environment
 
 ```bash
-cp .env.example .env.local
+## 🔒 Environment Variables Template (`.env`)
+
+```bash
+# ========================
+#  Clerk Authentication
+# ========================
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_publishable_key_here
+CLERK_SECRET_KEY=your_secret_key_here
+
+# Auth URLs
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
+NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
+
+# ========================
+#  Database (Neon PostgreSQL)
+# ========================
+DATABASE_URL=your_neon_connection_string
+NEXT_PUBLIC_DATABASE_URL=your_neon_connection_string
+
+# ========================
+#  AI Services
+# ========================
+GEMINI_API_KEY=your_gemini_key
+AI_GURU_LAB_API=your_custom_ai_key
+YOUTUBE_API_KEY=your_youtube_api_key
 ```
 
 Fill in your keys:
