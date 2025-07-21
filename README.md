@@ -136,7 +136,7 @@ We love contributions! Here's how to help:
 
 ---
 
-## 📜 License
+## 📜 MIT
 
 MIT © [Dave On Track](https://github.com/daveontrack)  
 *"Empowering learners through AI"*
