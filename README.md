@@ -21,7 +21,7 @@
 
 ## 🏗️ Project Architecture
 
-
+```bash
 ├── 📁 app/            # App Router routes & layouts
 │   ├── (dashboard)    # Protected routes
 │   ├── api/           # Edge-ready API endpoints
@@ -33,7 +33,7 @@
 │   └── db/            # Drizzle database client
 ├── 📁 styles/         # Tailwind configurations
 └── 📁 types/          # Global TypeScript types
-
+```
 ## 🛠️ Quick Start
 
 ### 1. Clone & Setup
@@ -83,16 +83,16 @@ Visit → [localhost:3000](http://localhost:3000)
 
 ---
 
-## 🎨 UI Showcase
+📺 More Video Resources
 
 <div align="center">
-
-![Course Dashboard](https://via.placeholder.com/600x400/3b82f6/ffffff?text=Dashboard+Preview)  
-*Dynamic Course Dashboard*
-
-![AI Generator](https://via.placeholder.com/600x400/10b981/ffffff?text=AI+Content+Generator)  
-*AI Content Creation*
-
+  <a href="https://www.youtube.com/watch?v=utInDVvTbWg&list=PPSV&t=12s" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Overview-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
+  </a>
+  <br/><br/>
+  <a href="https://www.youtube.com/watch?v=utInDVvTbWg&list=PPSV&t=12s" target="_blank">
+    <img src="https://img.youtube.com/vi/utInDVvTbWg/maxresdefault.jpg" alt="Video Thumbnail" width="600" style="border-radius: 10px; border: 3px solid #3b82f6;">
+  </a>
 </div>
 
 ---
