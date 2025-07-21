@@ -1,6 +1,3 @@
-
-
-```md
 # 🧠 AI Online Learning Platform
 
 A modern full-stack AI-powered online learning platform built using:
@@ -28,16 +25,27 @@ A modern full-stack AI-powered online learning platform built using:
 
 .
 ├── app/                  # Route handlers, pages, API
+
 ├── components/           # Reusable UI components
+
 ├── config/               # Drizzle / Tailwind / Next configs
+
 ├── context/              # React Context Providers
+
 ├── lib/                  # Utility functions
+
 ├── public/               # Static files
+
 ├── .env                  # Environment variables
+
 ├── drizzle.config.js     # Drizzle ORM config
+
 ├── middleware.js         # Clerk middleware
+
 ├── next.config.mjs       # Next.js config
+
 ├── package.json          # Project metadata
+
 └── README.md             # This file
 
 ````
