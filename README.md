@@ -1,4 +1,6 @@
-# 🚀 AI-Powered Learning Platform
+<img src="https://img.icons8.com/color/48/000000/robot.png" alt="AI Icon" style="height: 24px; vertical-align: middle; margin-right: 8px;">
+<span>AI-Powered Learning Platform</span>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js" alt="Next.js">
