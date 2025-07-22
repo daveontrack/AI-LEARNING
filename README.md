@@ -1,5 +1,5 @@
-<img src="https://img.icons8.com/color/48/000000/robot.png" alt="AI Icon" style="height: 24px; vertical-align: middle; margin-right: 8px;">
-<span>AI-Powered Learning Platform</span>
+# <img src="https://img.icons8.com/color/48/000000/robot.png" alt="AI Icon" style="height: 24px; vertical-align: middle; margin-right: 8px;"><span>AI-Powered Learning Platform</span>
+
 
 
 <div align="center">
