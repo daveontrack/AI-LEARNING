@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/color/48/000000/robot.png" alt="AI Icon" style="height: 24px; vertical-align: middle; margin-right: 8px;">    <span>AI-Powered Learning Platform</span>
+# <img src="https://img.icons8.com/color/48/000000/robot.png" alt="AI Icon" style="height: 24px; vertical-align: middle; margin-right: 8px;">    <span>AI Learning Platform</span>
 
 
 <div align="center">
@@ -110,20 +110,6 @@ Visit → [localhost:3000](http://localhost:3000)
 
 ---
 
-📺 More Video Resources
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=utInDVvTbWg&list=PPSV&t=12s" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_Watch_Video_Overview-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
-  </a>
-  <br/><br/>
-  <a href="https://www.youtube.com/watch?v=utInDVvTbWg&list=PPSV&t=12s" target="_blank">
-    <img src="https://img.youtube.com/vi/utInDVvTbWg/maxresdefault.jpg" alt="Video Thumbnail" width="600" style="border-radius: 10px; border: 3px solid #3b82f6;">
-  </a>
-</div>
-
-@tubeguruji  
----
 
 ## 🤝 Contributing
 
