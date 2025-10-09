@@ -18,7 +18,6 @@
 | **AI Core**     | 🧠 Dynamic course generation • 📝 Smart content suggestions               |
 | **Learning**    | 📊 Progress tracking • 🎓 Certifications • 🎥 Interactive video lessons   |
 | **Tech Stack**  | ⚡ Next.js 14 • 🔐 Clerk Auth • 🐘 Neon Postgres • 🎨 ShadCN UI           |
-| **Dev Experience** | 🛠️ Type-safe everything • 📦 Monorepo-ready • 🔄 CI/CD Optimized       |
 
 ## 🏗️ Project Architecture
 
